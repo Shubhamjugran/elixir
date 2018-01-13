@@ -1,37 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to Elixir
 
-You can use the [editor on GitHub](https://github.com/Shubhamjugran/elixir/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+ElixirOS is a lightweight AOSP ROM. We focus on battery, performance and stability, as well as providing the most up-to-date security patches. The philosophy is to stay relatively close to Google's stock Oreo and provide some essential features and configurations to enhance user experience.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Shubhamjugran/elixir/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### DISCLAIMER:
+We try to provide Quality builds, however, it is your decision to install our Project on your device. We take no responsibility for any damage that may occur from installing our Project. You should have knowledge of taking Backups and Restoring them in order to avoid problematic situations.
